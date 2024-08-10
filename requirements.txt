@@ -1,0 +1,8 @@
+pymilvus
+openai
+langchain
+tiktoken
+transformers
+pandas
+pdfminer
+pdfminer.six
